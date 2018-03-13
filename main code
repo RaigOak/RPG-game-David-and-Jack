@@ -2,7 +2,8 @@ import csv
 import random
 import texts
 import characters
-from characters import charactDict
+from characters 
+import charactDict
 
 def choseEnemy():
   enemiestats = {}
